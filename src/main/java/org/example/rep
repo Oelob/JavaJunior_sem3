@@ -1,0 +1,13 @@
+[ {
+  "name" : "Oleg",
+  "age" : 43,
+  "gpa" : 4.5
+}, {
+  "name" : "Igor",
+  "age" : 22,
+  "gpa" : 3.0
+}, {
+  "name" : "Ivan",
+  "age" : 21,
+  "gpa" : 5.0
+} ]
